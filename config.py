@@ -1,1 +1,1 @@
-api_key = "Csk-ve20ODSm6QbV6epBo60wT3BlbkFJW70xm2zQ70w4rFAChdTn"
+api_key = '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'
